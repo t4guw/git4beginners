@@ -88,7 +88,12 @@ A typical workflow that you will be using to complete your assignments:
    commit changes to files that you explicitly want, so you have to tell 
    `git` what changes to commit. In the command line, you use the command `git add`.
 5. **Commit your changes.** After you've selected which changes you want to 
-   save to your `git` repository, you can save 
+   save to your `git` repository, you can tell `git` to record those changes 
+   to your code in a commit.
+6. **Upload your changes to GitHub.** Push your new commit(s) to GitHub to 
+   get the newest version of your code into the GitHub repository.
+
+You can repeat steps 3-6 as many times as you like.
 
 <a name="usage-classroom"/>
 
