@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Recommendations for using git in the classroom at UWB
 
 In this project, we work to configure a GitHub Classroom assignment for 
@@ -24,9 +28,9 @@ on this project might include:
   `git` usage and development environment setup so that students are 
   better prepared for success in the classroom.
 
-## [Faculty Guide to Incorporating GitHub Classroom](./faculty-guide.md)
+## [Faculty Guide to Incorporating GitHub Classroom]({%link faculty-guide.md %})
 
-## [Student Guide to Getting Started with git](./student-guide.md)
+## [Student Guide to Getting Started with git]({% link student-guide.md %})
 
 ## [Explore the Example Repository](https://github.com/t4guw/CSS142_HW1) or [Try It Yourself](https://classroom.github.com/a/RzC1asr_)
 

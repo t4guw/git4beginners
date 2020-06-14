@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Table of Contents
 
 * [What is `git`?](#what)

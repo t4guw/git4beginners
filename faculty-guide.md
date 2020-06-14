@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Recommendations for Faculty
 
 By Lizzy Presland, June 2020
