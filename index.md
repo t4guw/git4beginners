@@ -28,9 +28,9 @@ on this project might include:
   `git` usage and development environment setup so that students are 
   better prepared for success in the classroom.
 
-## [Faculty Guide to Incorporating GitHub Classroom]({{ site.url }}{%link faculty-guide.md %})
+## [Faculty Guide to Incorporating GitHub Classroom]({{ site.baseurl }}{% link faculty-guide.md %})
 
-## [Student Guide to Getting Started with git]({{ site.url }}{% link student-guide.md %})
+## [Student Guide to Getting Started with git]({{ site.baseurl }}{% link student-guide.md %})
 
 ## [Explore the Example Repository](https://github.com/t4guw/CSS142_HW1) or [Try It Yourself](https://classroom.github.com/a/RzC1asr_)
 
