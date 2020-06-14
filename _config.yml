@@ -1,4 +1,6 @@
 title: Git 4 Beginners
 description: Materials for UW Bothell professors and students to weave `git` into CSSE curricula.
 
+site.url: https://t4guw.github.io/git4beginners
+
 theme: jekyll-theme-dinky

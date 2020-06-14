@@ -8,7 +8,7 @@ In this project, we work to configure a GitHub Classroom assignment for
 a CSS 142 programming course. We configured this demo assignment with 
 the following features:
 
-* Compilation checks on each `push` command using GitHub Actions
+* Compilation checks on each `push` event using GitHub Actions
 * Line length checks (80 chars max) using GitHub Actions
 * Autograding student work using a GitHub Action designed specifically 
   for GitHub Classroom
@@ -18,8 +18,8 @@ GitHub Classroom platform can be leveraged to provide immediate, actionable
 feedback to students about code and documentation quality. Future work 
 on this project might include:
 
-* Developing autograding tests which provide meaningful output for 
-  students, so that they can more easily understand why test cases are 
+* Refining autograding tests so that they provide meaningful output for 
+  students; with this, students will more easily understand why test cases are 
   failing and what those test cases are actually testing.
 * Include more style-oriented actions, such as looking for JavaDoc 
   comments in each class or method, consistent indentation practices, 
@@ -28,9 +28,9 @@ on this project might include:
   `git` usage and development environment setup so that students are 
   better prepared for success in the classroom.
 
-## [Faculty Guide to Incorporating GitHub Classroom]({%link faculty-guide.md %})
+## [Faculty Guide to Incorporating GitHub Classroom]({{ site.url }}{%link faculty-guide.md %})
 
-## [Student Guide to Getting Started with git]({% link student-guide.md %})
+## [Student Guide to Getting Started with git]({{ site.url }}{% link student-guide.md %})
 
 ## [Explore the Example Repository](https://github.com/t4guw/CSS142_HW1) or [Try It Yourself](https://classroom.github.com/a/RzC1asr_)
 
